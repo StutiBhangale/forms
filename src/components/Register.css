@@ -1,0 +1,45 @@
+.box1 {
+    width: 350px;
+    margin: 50px auto;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    text-align: left;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
+}
+
+.box1 h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+Form.Label {
+    font-weight: bold;
+}
+
+Form.Control {
+    margin-bottom: 15px;
+}
+
+Button[type="submit"] {
+    width: 100%;
+    border: none;
+}
+
+Button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.box1 p {
+    text-align: center;
+    margin-top: 15px;
+}
+
+Link {
+    color: #007bff;
+}
+
+Link:hover {
+    text-decoration: underline;
+}
